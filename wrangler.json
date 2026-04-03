@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "viliniu-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c70b39f5-b5bc-4af3-966e-9dd535aeca83",
+			"database_name": "multistore-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
